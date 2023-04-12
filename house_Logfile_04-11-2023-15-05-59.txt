@@ -1,0 +1,11 @@
+INFO : Log File Created
+INFO : Connection Created Successfully ! 
+INFO : Data loading to Database Successfully ! 
+INFO : Data Printing Successfully !
+INFO : Data Check Successfully !
+INFO : Data Fit Successfully !
+INFO : Data Splitting Successfully !
+INFO : Data Train and Test Successfully !
+INFO : Models Apply Successfully !
+INFO : Result Stored Successfully!
+INFO : Data Exported Successfully!
